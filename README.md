@@ -2,7 +2,7 @@
 
 Dit is de H2GO website 
 
-De logo van de groep
+Het logo van de groep
 ![Image](H@GO.png)
 
 Klik [hier](bedankt.md) voor de bedank pagina
