@@ -2,7 +2,6 @@
 
 klik [hier](https://www.paypal.me/teamh2go) voor het overmaken met paypal
 
-stuur een email naar tom.dunantmaurits@leerling.csg-comenius.nl als u een factuur wil hebben geschreven
-
+stuur een bericht naar @Tomdunantmaurits op facebook voor een factuur
 
 ### [Terug](http://www.team-h2go.nl)
