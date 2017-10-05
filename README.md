@@ -1,7 +1,7 @@
 ## welkom op de H2GO website!
 
 Dit is de H2GO website 
-Klik hier voor [TOM]http://www.google.nl
+Klik [hier](tom.md) voor de bedankt pagina
 ### Markdown
 
 De logo van de groep
