@@ -8,11 +8,17 @@
 ### Teamleden
 
 Jasper Winkeler
+
 Hylke veenema 
+
 Tom Dunant Maurits
+
 Jesper van Drogen
+
 Denise Tuit
+
 Zoe van Anken
+
 Rixt
 
 ## [Terug](https://www.team-h2go.nl)
