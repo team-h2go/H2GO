@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## welkom op de H2GO website!
 
-You can use the [editor on GitHub](https://github.com/team-h2go/h2go/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Dit is de H2GO website 
 
 ### Markdown
 
