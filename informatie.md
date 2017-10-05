@@ -21,4 +21,4 @@ Zoe van Anken
 
 Rixt
 
-## [Terug](https://www.team-h2go.nl)
+## [Terug](http://www.team-h2go.nl)
