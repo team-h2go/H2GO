@@ -2,7 +2,6 @@
 
 Dit is de H2GO website 
 Klik [hier](bedankt.md) voor de bedankt pagina
-### Markdown
 
 De logo van de groep
 ![Image](H@GO.png)
